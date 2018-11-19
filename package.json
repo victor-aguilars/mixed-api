@@ -1,0 +1,22 @@
+{
+  "name": "graphql-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "firebase": "^5.5.8",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "nodemon": "^1.18.6"
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "1jaUqIXff5NMJr6pkUC8hLa84pO2": {
+    "Programadores": {
+      "-LQApDkI25bpraT_q4NO": {
+        "mail": "gene@hotmail.com",
+        "uid": "MwGzJEUptRMy3sZAnfHHiXlZwWq1"
+      },
+      "-LQApJ2zbowr7QfTe6fJ": {
+        "mail": "retail@hotmail.com",
+        "uid": "o6sNBYxdEhhjpjoqsFwTHd8xFOX2"
+      },
+      "-LQApPBbf_CQLZTa9Wcc": {
+        "mail": "manuretail@hotmail.com",
+        "uid": "PaZd3Inml3Vw09rwJzqB3Hbez373"
+      }
+    },
+    "permisos": "admin"
+  },
+  "8Vgq6eElC4TumKdhyFaAbOGuzCU2": {
+    "Apps": {
+      "GENE-asdf": {
+        "-LQ6d8uIxPsldqBKLcvW": [
+          {
+            "id": "Screen Shot 2018-10-10 at 2.23.42 PM.png"
+          }
+        ]
+      },
+      "HOLO-jelp": {
+        "Instrucciones": {
+          "-LRP4L6ouyqXgl_sikFN": {
+            "instruccion": "Lorem Ipsum es un texto de marcador de posición comúnmente utilizado en las industrias gráficas, gráficas y editoriales para previsualizar diseños y maquetas visuales.Lorem Ipsum es un texto de",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          }
+        },
+        "Materiales": "",
+        "Tiempo": {
+          "minutos": "0",
+          "segundos": "0"
+        }
+      },
+      "HOLO-juego": {
+        "Instrucciones": {
+          "-LQBTjOwNElYIpeg7YKs": {
+            "instruccion": "imstruccion",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+              },
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          },
+          "-LQzCU4zgfoh0wLmh1BT": {
+            "instruccion": "instruccion",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          },
+          "-LREO9npDJsNpBiFhpK5": {
+            "instruccion": "a",
+            "orden": 2,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          },
+          "-LREOBZJ1h7iHShMned6": {
+            "instruccion": "b",
+            "orden": 3,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          },
+          "-LREOEbBndAE24N7Gvz9": {
+            "instruccion": "c",
+            "orden": 4,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+              }
+            ]
+          },
+          "-LRJMWlzztfT9PWEMerO": {
+            "instruccion": "instruccinn",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          }
+        },
+        "Materiales": {
+          "-LQBTpFjWCQGMh4B7IcR": "materiales"
+        },
+        "Operarios": {
+          "-LREZ4s2dAA3khtlJR0W": {
+            "id": "-LQpgrIEYoCyTWiwxCZB"
+          }
+        },
+        "Tiempo": {
+          "minutos": "45",
+          "segundos": "8"
+        }
+      },
+      "HOLO-nueva": {
+        "Instrucciones": {
+          "-LQzGo5Rk4XUBQCVXS4s": {
+            "instruccion": "aserr",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          },
+          "-LQzIeOTeEJVvqrdJpqX": {
+            "instruccion": "hola",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          }
+        },
+        "Materiales": "jelp",
+        "Tiempo": {
+          "minutos": "1",
+          "segundos": "2"
+        }
+      },
+      "HOLO-prueba final": {
+        "Instrucciones": {
+          "-LQzLD_BDOjEtNnrqXUT": {
+            "instruccion": "jala",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+              }
+            ]
+          },
+          "-LQzLFWoUneNQ0KkDNW0": {
+            "instruccion": "jejeje",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          }
+        },
+        "Materiales": "material",
+        "Operarios": {
+          "-LREZ70H0iwGxX-Re8en": {
+            "id": "-LQpgrIEYoCyTWiwxCZB"
+          }
+        },
+        "Tiempo": {
+          "minutos": "0",
+          "segundos": "0"
+        }
+      },
+      "HOLO-yaporfavor": {
+        "Instrucciones": {
+          "-LRJO8mZw7qpdM17C21g": {
+            "instruccion": "nueva",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+              }
+            ]
+          }
+        },
+        "Materiales": "",
+        "Tiempo": {
+          "minutos": "0",
+          "segundos": "0"
+        }
+      },
+      "RETAIL-asdfghjklñ": {
+        "Productos": {
+          "-LQkWcz6UsfKO3ykSdh8": {
+            "categoria": "dfg",
+            "codigo": "dgdfg",
+            "nombre": "sfgdfg",
+            "precio": "05656",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LQqCVSyqlvT6Ax8AcoN": {
+            "categoria": "adsfad",
+            "codigo": "adsfasdf",
+            "nombre": "producto1",
+            "precio": "234",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a"
+          },
+          "-LQqDRza2R_0_RzeObXn": {
+            "categoria": "asdfasdf",
+            "codigo": "eafasdfdf",
+            "nombre": "prducto2",
+            "precio": "13241234",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LQqDc3ue5PaEI2oBJd7": {
+            "categoria": "dfgdfg",
+            "codigo": "345345",
+            "nombre": "agre",
+            "precio": "45",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LQqDnoHcpKitjRKkXmx": {
+            "categoria": "sdfsdfg",
+            "codigo": "21341234",
+            "nombre": "producto2",
+            "precio": "234234",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LQqDvq3dK6vB83wwAAr": {
+            "categoria": "erfger",
+            "codigo": "ergerg",
+            "nombre": "producto",
+            "precio": "344",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LQqEDUtO-i1zi9ucV9X": {
+            "categoria": "12341234",
+            "codigo": "ADFASFD",
+            "nombre": "nuevo",
+            "precio": "123423",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LRF0H-jIgzA5KavQLwk": {
+            "categoria": "qwerqwer1",
+            "codigo": "asdfasdf",
+            "nombre": "productorelacionados",
+            "precio": "12342",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fcoca.jpg?alt=media&token=501950ac-9f46-43b7-95b3-67a382427e33",
+            "relacionados": ",-LQqEDUtO-i1zi9ucV9X,-LQqDc3ue5PaEI2oBJd7"
+          },
+          "-LRF1pSu2oVlklXTh3Ik": {
+            "categoria": "sdfsdf",
+            "codigo": "sdfsf",
+            "nombre": "prelacionado",
+            "precio": "13241",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a",
+            "relacionados": [
+              {
+                "id": "productorelacionados",
+                "img": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fcoca.jpg?alt=media&token=501950ac-9f46-43b7-95b3-67a382427e33"
+              }
+            ]
+          }
+        }
+      },
+      "RETAIL-prueba2": {
+        "Productos": {
+          "-LQbJebMORPGjFR197IH": {
+            "categoria": "Higiene",
+            "codigo": "1234",
+            "nombre": "producto2",
+            "precio": "123",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+          },
+          "-LRc9aUGCJbeLWqX0dIm": {
+            "categoria": "Mascotas",
+            "codigo": "asdfasdf",
+            "nombre": "p1",
+            "precio": "1234",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a",
+            "relacionados": [
+              {
+                "id": "producto2",
+                "img": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Operarios": {
+      "-LQpgrIEYoCyTWiwxCZB": {
+        "contraseña": "1234",
+        "usuario": "jorge"
+      },
+      "-LQphkAccee2vpisyeNj": {
+        "contraseña": "1234",
+        "usuario": "victor"
+      },
+      "-LQpkIVtbExwRiDlXKCW": {
+        "contraseña": "1234",
+        "usuario": "gerardo"
+      },
+      "-LROmnMknL3s1sM2c6AX": {
+        "contraseña": "1234",
+        "usuario": "consuelo"
+      }
+    },
+    "Recursos": {
+      "imagenes": {
+        "-LPxGAKd8Mx5AjfnxFHf": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2FScreen%20Shot%202018-10-10%20at%202.23.42%20PM.png?alt=media&token=0705d6df-55ec-47ed-83b4-51b33fccdd41",
+          "name": "Screen Shot 2018-10-10 at 2.23.42 PM.png"
+        },
+        "-LQbKvNROtsKR65fhllY": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fd103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg?alt=media&token=3b776297-207f-47c7-b7ee-b1d40252321a",
+          "name": "d103b4a8-a6d8-41b7-bdc6-b08de9bd0632.jpeg"
+        },
+        "-LRABPwnovdPipHwNuy9": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/8Vgq6eElC4TumKdhyFaAbOGuzCU2%2Fimagenes%2Fcoca.jpg?alt=media&token=501950ac-9f46-43b7-95b3-67a382427e33",
+          "name": "coca.jpg"
+        }
+      }
+    },
+    "permisos": "GENHOLORE"
+  },
+  "9Bq0JODU7tY4z9qENE5ZWQ8GYD93": {
+    "permisos": "null"
+  },
+  "AQADWiW5o7W8dpLF7b6oXqzmLwp1": {
+    "permisos": "null"
+  },
+  "MwGzJEUptRMy3sZAnfHHiXlZwWq1": {
+    "permisos": "GEN"
+  },
+  "PaZd3Inml3Vw09rwJzqB3Hbez373": {
+    "asdfasf": "asdfasdf",
+    "permisos": "HOLORE"
+  },
+  "RTgLg6ekRveFmWJpa8kOzHyFU3j1": {
+    "permisos": "null"
+  },
+  "Y84y5jaEZyMQ3G7Y3ieZwCymVxl1": {
+    "permisos": "null"
+  },
+  "cj5Q3DnDrYgUml4lBgPzLpNwyuX2": {
+    "permisos": "null"
+  },
+  "o6sNBYxdEhhjpjoqsFwTHd8xFOX2": {
+    "permisos": "RE"
+  },
+  "ttFFlu0vQ8b2iKGUgtWyMU67FXS2": {
+    "Apps": {
+      "GENE-yyyy": {
+        "-LRJmrsUFmvMDbcab_FE": [
+          {
+            "id": "SofttekChip.jpg"
+          },
+          {
+            "id": "botoneraBotones.JPG"
+          }
+        ]
+      },
+      "HOLO-Holo1": {
+        "Instrucciones": {
+          "-LR9t2JGLiwzmRuFslcQ": {
+            "instruccion": "Se sueldan todos los botones con la enumeración proporcionada en la        figura 1, siendo el botón 1 el que está colocado al extremo izquierdo de la botonera",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2Fbotonera.JPG?alt=media&token=81b5f6b4-681c-4a5f-92f4-563666808e2d"
+              }
+            ]
+          }
+        },
+        "Materiales": "Botonera",
+        "Operarios": {
+          "-LR9twYWtnUyVw6j3UlP": {
+            "id": "-LPxLwB40hpJVbkjoE-p"
+          }
+        },
+        "Tiempo": {
+          "minutos": "12",
+          "segundos": "32"
+        }
+      },
+      "HOLO-holo1": {
+        "Instrucciones": {
+          "-LQH8wQSvkAOMzawC1jC": {
+            "instruccion": "Se suelda el NODE MCU, el cual se conecta con la orientación indicada",
+            "orden": 0,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7"
+              }
+            ]
+          },
+          "-LQH9Todvk1DgUCS9_Sd": {
+            "instruccion": "Se sueldan todas las resistencias de 10 kOhm, en los lugares indicados",
+            "orden": 1,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7"
+              }
+            ]
+          },
+          "-LQH9fz9nZk3tADtWWMD": {
+            "instruccion": "Se sueldan todas las resistencias de 100 Ohm, en los lugares indicados",
+            "orden": 2,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7"
+              }
+            ]
+          },
+          "-LQHA1ppH2xwRc42CtJY": {
+            "instruccion": "Se sueldan todos los LED en los espacios indicados",
+            "orden": 3,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7"
+              }
+            ]
+          },
+          "-LQHADe_L7jeHpE8bbjG": {
+            "instruccion": "Se sueldan los botones de izquierda a derecha en las posiciones indicadas",
+            "orden": 4,
+            "recursos": [
+              {
+                "id": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7"
+              }
+            ]
+          }
+        },
+        "Materiales": {
+          "-LR555ZLw_7UjqGYv0MA": "4 LED\n4 Botones push\n4 Resistencias de 100 Ohm\n3 resistencias de 10 kOhm\n1 NODE MCU\n"
+        },
+        "Tiempo": {
+          "minutos": "60",
+          "segundos": "0"
+        }
+      },
+      "RETAIL-qwer": {
+        "Productos": {
+          "-LQpr2E5FuDVPCz6PTog": {
+            "categoria": "qwerwqer",
+            "codigo": "qwerqwerqwer",
+            "nombre": "qwerqer",
+            "precio": "3",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2Fbotonera.JPG?alt=media&token=81b5f6b4-681c-4a5f-92f4-563666808e2d"
+          }
+        }
+      },
+      "RETAIL-qwerwer": {
+        "Productos": {
+          "-LQqEr9Yi08AQs5P5EEI": {
+            "categoria": "sdfsdafd",
+            "codigo": "asdfasdadf",
+            "nombre": "qwerqwerq",
+            "precio": "3",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FRinged%20City%20Tower.jpg?alt=media&token=e404b5f7-71c8-4ea5-a8ce-3f164ff8c38d"
+          }
+        }
+      }
+    },
+    "Recursos": {
+      "imagenes": {
+        "-LPxFlN9aVYSFoxH4t6o": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2Fdoomed.jpg?alt=media&token=9168a69c-4101-48a0-b706-5aff9e39fbeb",
+          "name": "doomed.jpg"
+        },
+        "-LPxFnXuyopGDWiIIkFG": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FRinged%20City%20Tower.jpg?alt=media&token=e404b5f7-71c8-4ea5-a8ce-3f164ff8c38d",
+          "name": "Ringed City Tower.jpg"
+        },
+        "-LPxG2RyLAVytJ3ATLn_": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2Fbotonera.JPG?alt=media&token=81b5f6b4-681c-4a5f-92f4-563666808e2d",
+          "name": "botoneraBotones.JPG"
+        },
+        "-LQqHYWuiGeQOivYzhMw": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FSofttekChip.jpg?alt=media&token=3ac4821a-833f-4728-accc-b3b3e25304e7",
+          "name": "SofttekChip.jpg"
+        },
+        "-LRPIgPO70DvH13sGBtD": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/ttFFlu0vQ8b2iKGUgtWyMU67FXS2%2Fimagenes%2FMueble_1.fbx?alt=media&token=d07903c1-2d56-4fae-8616-057f477036e0",
+          "name": "Mueble_1.fbx"
+        }
+      }
+    },
+    "permisos": "GENHOLORE"
+  },
+  "zu3rqnUdEJXNivXZenWur2fJycB3": {
+    "Apps": {
+      "HOLO-dd": {
+        "Materiales": "33333",
+        "Operarios": {
+          "-LREhd9UUnWYLtcwb1v6": {
+            "id": "-LPx6DrXwF2bD6LZmsP5"
+          },
+          "-LREhd9VfkjYNxFRmGEh": {
+            "id": "-LR646yoa8dTvstyS5ft"
+          },
+          "-LREhd9WdgdtxekLQvdi": {
+            "id": "-LPx6MPCSz2eSseUWtLV"
+          }
+        },
+        "Tiempo": {
+          "minutos": "4",
+          "segundos": "3"
+        }
+      },
+      "RETAIL-dsdsd": {
+        "Productos": {
+          "-LQpdIxZtWrpBVQFQFbR": {
+            "categoria": "dsds",
+            "codigo": "dsd",
+            "nombre": "dsdsd",
+            "precio": "323",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FGENE.png?alt=media&token=63568801-c7ea-4b41-b27d-eb54af3e08e3"
+          }
+        }
+      },
+      "RETAIL-ii": {
+        "Productos": {
+          "-LQjO2_9feKs1AQJWm8y": {
+            "categoria": "oooo",
+            "codigo": "look",
+            "nombre": "ii",
+            "precio": "55",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FGENE.png?alt=media&token=63568801-c7ea-4b41-b27d-eb54af3e08e3"
+          }
+        }
+      },
+      "RETAIL-retail": {
+        "Productos": {
+          "-LQjNRKU4cR6YtiPNC1S": {
+            "categoria": "Lacteos",
+            "codigo": "12344",
+            "nombre": "Lala",
+            "precio": "20",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906"
+          }
+        }
+      },
+      "RETAIL-ss": {
+        "Productos": {
+          "-LQjNfLLmhRP3cuMCYJO": {
+            "categoria": "lacteos",
+            "codigo": "123",
+            "nombre": "lala",
+            "precio": "22",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906"
+          },
+          "-LQjNmAnQ4-5-Q4Zh1HG": {
+            "categoria": "Lacteos",
+            "codigo": "1212",
+            "nombre": "lalaa",
+            "precio": "22",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906"
+          }
+        }
+      },
+      "RETAIL-sss": {
+        "Productos": {
+          "-LQjNqSOu8N22YzIdz2n": {
+            "categoria": "ss",
+            "codigo": "aa",
+            "nombre": "ss",
+            "precio": "12",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906"
+          },
+          "-LQjR4j_2iqS2wn7k0u-": {
+            "categoria": "dsd",
+            "codigo": "dsds",
+            "nombre": "sas",
+            "precio": "2",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FLorem%20ipsum%20dolor%20sit%20amet%2C%20consectetuer.jpg?alt=media&token=b8864c66-e259-4273-b6aa-0926f925084d"
+          },
+          "-LQjiRVaCmlA2Cutj7NI": {
+            "categoria": "ewew",
+            "codigo": "ewew",
+            "nombre": "sww",
+            "precio": "22",
+            "recurso": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906"
+          }
+        }
+      }
+    },
+    "Operarios": {
+      "-LPx6DrXwF2bD6LZmsP5": {
+        "contraseña": "ss",
+        "usuario": "gera2ww@hotmail.com"
+      },
+      "-LPx6MPCSz2eSseUWtLV": {
+        "contraseña": "123456rerer",
+        "usuario": "etererte@hotmail.com"
+      },
+      "-LR646yoa8dTvstyS5ft": {
+        "contraseña": "1233",
+        "usuario": "holaaa"
+      },
+      "-LR64L1Xux8A0R9ygvB8": {
+        "contraseña": "1234",
+        "usuario": "dwsw"
+      }
+    },
+    "Recursos": {
+      "imagenes": {
+        "-LPxFiKRbCldO7VQ61eT": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FGENE.png?alt=media&token=63568801-c7ea-4b41-b27d-eb54af3e08e3",
+          "name": "GENE.png"
+        },
+        "-LQBN0gm0waWi6ATQkrY": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2F0750102051518L2.jpg?alt=media&token=03369ce5-ae5c-4f95-811f-e895f771b906",
+          "name": "0750102051518L2.jpg"
+        },
+        "-LQBN8Uf2L2H3QlTUCBP": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FLorem%20ipsum%20dolor%20sit%20amet%2C%20consectetuer.jpg?alt=media&token=b8864c66-e259-4273-b6aa-0926f925084d",
+          "name": "Lorem ipsum dolor sit amet, consectetuer.jpg"
+        },
+        "-LQzP42A5cyp4gfs5qqO": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2Fiibola_guia.png?alt=media&token=58d24702-2c6d-45e1-865f-4d0a3b62031d",
+          "name": "iibola_guia.png"
+        },
+        "-LQzPAx7Vosz4Isx5U5c": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2Fiibkkola_guia.png?alt=media&token=51702ae1-0820-41c6-95d3-e11f338ebfc6",
+          "name": "iibkkola_guia.png"
+        },
+        "-LQzROMLhV8A3rEk-9he": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2FPexels%20Videos%202886.mp4?alt=media&token=c594b74d-4b87-488b-8b03-2bae78074ffd",
+          "name": "Pexels Videos 2886.mp4"
+        },
+        "-LQzYCrxEnzzXDAv72Kq": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/mixed-6439a.appspot.com/o/zu3rqnUdEJXNivXZenWur2fJycB3%2Fimagenes%2Fhola.obj?alt=media&token=9c2511b4-18c1-41b5-87b3-7e3d8602edc5",
+          "name": "hola.obj"
+        }
+      }
+    },
+    "permisos": "GENHOLORE"
+  }
+}
